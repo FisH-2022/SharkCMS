@@ -1,5 +1,6 @@
-# skcms
-SKCMS（鲨鱼CMS） - 更好用的CMS<br>
+# SKCMS（鲨鱼CMS） - 更好用的CMS<br>
+中文名：鲨鱼CMS<br>
+英文名：SKCMS（常用）<br>
 官网：<a href="https://cms.xyfish.cn">https://cms.xyfish.cn</a><br>
 <br>
 
