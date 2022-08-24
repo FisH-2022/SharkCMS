@@ -1,4 +1,4 @@
-<center>
+<div align="center">
 <a href="https://cms.xyfish.cn">
 <img src="https://github.com/FisH-2022/img/blob/97c2d8159ea5d303043cf43200a90644164bec5f/github/skcms_logo.svg" />
 </a>
@@ -6,7 +6,7 @@
 
 <a href="https://cms.xyfish.cn">官网</a> | 文档 | 安装要求 | 更新日志 | 赞助 | <a href="#zanzhu">赞助<br>
 
-</center>
+</div>
 <hr>
 
 
