@@ -1,15 +1,25 @@
-<div align="center">
+<center>
 <a href="https://cms.xyfish.cn">
 <img src="https://github.com/FisH-2022/img/blob/97c2d8159ea5d303043cf43200a90644164bec5f/github/skcms_logo.svg" />
 </a>
 <br>
 
-<a href="https://cms.xyfish.cn">官网</a> | 文档 | 安装要求 | 更新日志 | 赞助 | <a href="#zanzhu">赞助<br>
+<img src="https://img.shields.io/badge/PHP-%3E%3D7.0-orange"/>
+<img src="https://img.shields.io/badge/license-MIT-green"/>
+<img src="https://img.shields.io/badge/Mysql-%3E%3D5.6-blue"/>
 
-</div>
+<a href="https://cms.xyfish.cn">官网</a> | 
+<a href="#"> 演示 </a>| 
+<a>文档</a> | 
+<a href="#install">安装要求</a> | 
+<a href="https://www.yuque.com/forms/share/22763685-8937-4beb-9683-ad0442f37b2f">反馈</a> | 
+<a href="https://www.yuque.com/fishnb/sn8ugg/zkdnnh">更新日志</a> | 
+<a href="#zanzhu">捐赠</a><br>
+
+</center>
 <hr>
 
-
+## <a style="color:red">当前正在开发中，还请耐心等待</a>
 
 
 ###  <a id="index">简介</a>
@@ -32,13 +42,15 @@ SKCMS是由<a href="https://github.com/FisH-2022/">fish</a>开发的内容管理
 
 ### 🛠 <a id="install">安装要求</a>
 - Nginx / Apache / IIS
-- PHP 7.0 / 7.0+
-- Mysql 选择任意稳定版本即可
+- PHP >=7.0
+- Mysql >=5.6
 
-### <a id="thanks">致谢</a>
-感谢<a href="https://www.mdui.org">MDUI</a>提供部分功能美化，感谢<a href="https://layui.gitee.io/">Layui</a>提供后台模板
+### 😋 <a id="thanks">致谢</a>
+- <a href="https://www.mdui.org">MDUI</a>
+- <a href="https://layui.gitee.io/">Layui</a>
+- <a href="https://tailwindcss.com">Tailwindcss</a>
 
-### <a id="zanzhu">赞助</a>
+### 💰 <a id="zanzhu">捐赠</a>
 <table class="layui-table">
   <colgroup>
     <col width="200">
@@ -54,16 +66,16 @@ SKCMS是由<a href="https://github.com/FisH-2022/">fish</a>开发的内容管理
   <tbody>
     <tr>
       <td>
-      <img height="200px" width="200px" src="https://github.com/FisH-2022/img/blob/97c2d8159ea5d303043cf43200a90644164bec5f/github/wxpay.png" alt="支付宝赞助"/>
+      <img height="200px" width="200px" src="https://github.com/FisH-2022/img/blob/97c2d8159ea5d303043cf43200a90644164bec5f/github/alipay.png" alt="微信赞助"/>
       </td>
       <td>
-      <img height="200px" width="200px" src="https://github.com/FisH-2022/img/blob/97c2d8159ea5d303043cf43200a90644164bec5f/github/alipay.png" alt="微信赞助"/>
+      <img height="200px" width="200px" src="https://github.com/FisH-2022/img/blob/97c2d8159ea5d303043cf43200a90644164bec5f/github/wxpay.png" alt="支付宝赞助"/>
       </td>
     </tr>
   </tbody>
 </table>
 
-### 开源协议
+### 📃 开源协议
 <code>
 MIT License</code>
 
