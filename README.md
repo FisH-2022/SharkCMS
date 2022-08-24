@@ -1,4 +1,4 @@
-<center>
+<div align="center">
 <a href="https://cms.xyfish.cn">
 <img src="https://github.com/FisH-2022/img/blob/97c2d8159ea5d303043cf43200a90644164bec5f/github/skcms_logo.svg" />
 </a>
@@ -16,7 +16,7 @@
 <a href="https://www.yuque.com/fishnb/sn8ugg/zkdnnh">更新日志</a> | 
 <a href="#zanzhu">捐赠</a><br>
 
-</center>
+</div>
 <hr>
 
 ## <a style="color:red">当前正在开发中，还请耐心等待</a>
