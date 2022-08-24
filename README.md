@@ -1,6 +1,6 @@
 <center>
 <a href="https://cms.xyfish.cn">
-<img src="https://cms.xyfish.cn/sk-static/img/logo.svg" />
+<img src="https://github.com/FisH-2022/img/blob/97c2d8159ea5d303043cf43200a90644164bec5f/github/skcms_logo.svg" />
 </a>
 <br>
 
@@ -54,10 +54,10 @@ SKCMS是由<a href="https://github.com/FisH-2022/">fish</a>开发的内容管理
   <tbody>
     <tr>
       <td>
-      <img height="200px" width="200px" src="https://cms.xyfish.cn/sk-static/github/wxpay.png" alt="微信赞助"/>
+      <img height="200px" width="200px" src="https://github.com/FisH-2022/img/blob/97c2d8159ea5d303043cf43200a90644164bec5f/github/alipay.png" alt="微信赞助"/>
       </td>
       <td>
-      <img height="200px" width="200px" src="https://cms.xyfish.cn/sk-static/github/alipay.png" alt="支付宝赞助"/>
+      <img height="200px" width="200px" src="https://github.com/FisH-2022/img/blob/97c2d8159ea5d303043cf43200a90644164bec5f/github/wxpay.png" alt="支付宝赞助"/>
       </td>
     </tr>
   </tbody>
