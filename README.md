@@ -27,7 +27,7 @@
 SKCMS是由<a href="https://github.com/FisH-2022/">fish</a>开发的内容管理系统，可用于<code>搭建博客、官网等</code>。SKCMS
 可以安装任意适配SKCMS的主题，也欢迎各位开发者为SKCMS开发主题。本主题采用MIT开源协议，欢迎二次开发，只需<code>在明显处留下原作者及此仓库链接</code>即可~<br><br>
 Gitee仓库：https://gitee.com/fish_nb/skcms<br>
-Github仓库：https://github.com/FisH-2022/img
+Github仓库：https://github.com/FisH-2022/skcms
 ## 📌<a>功能优势</a>
 * [x] 所有功能免费
 * [x] 主题
