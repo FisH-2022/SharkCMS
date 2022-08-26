@@ -19,14 +19,15 @@
 </div>
 <hr>
 
-## <a style="color:red">当前正在开发中，还请耐心等待</a>
+### <a style="color:red">当前正在开发中，还请耐心等待</a>
+<img src="https://github.com/FisH-2022/img/blob/main/github/skcms-admin.png" />
 
 
-###  <a id="index">简介</a>
+##  <a id="index">简介</a>
 SKCMS是由<a href="https://github.com/FisH-2022/">fish</a>开发的内容管理系统，可用于<code>搭建博客、官网等</code>。SKCMS
 可以安装任意适配SKCMS的主题，也欢迎各位开发者为SKCMS开发主题。本主题采用MIT开源协议，欢迎二次开发，只需<code>在明显处留下原作者及此仓库链接</code>即可~<br>
 
-### 📌<a>功能优势</a>
+## 📌<a>功能优势</a>
 * [x] 所有功能免费
 * [x] 主题
   * [x] 自带默认主题
@@ -40,17 +41,17 @@ SKCMS是由<a href="https://github.com/FisH-2022/">fish</a>开发的内容管理
 
 
 
-### 🛠 <a id="install">安装要求</a>
+## 🛠 <a id="install">安装要求</a>
 - Nginx / Apache / IIS
 - PHP >=7.0
 - Mysql >=5.6
 
-### 😋 <a id="thanks">致谢</a>
+## 😋 <a id="thanks">致谢</a>
 - <a href="https://www.mdui.org">MDUI</a>
 - <a href="https://layui.gitee.io/">Layui</a>
 - <a href="https://tailwindcss.com">Tailwindcss</a>
 
-### 💰 <a id="zanzhu">捐赠</a>
+## 💰 <a id="zanzhu">捐赠</a>
 <table class="layui-table">
   <colgroup>
     <col width="200">
@@ -75,7 +76,7 @@ SKCMS是由<a href="https://github.com/FisH-2022/">fish</a>开发的内容管理
   </tbody>
 </table>
 
-### 📃 开源协议
+## 📃 开源协议
 <code>
 MIT License</code>
 
