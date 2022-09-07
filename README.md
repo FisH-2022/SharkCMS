@@ -38,7 +38,6 @@ Github仓库：https://github.com/FisH-2022/skcms
   * [x] 主题开发支持
 * [x] 全站用户管理
 * [x] 站点信息统计
-* [x] 富文本编辑器
 * [x] <a href="https://github.com/FisH-2022/SKeditor/">SKeditor</a>文章编辑器
 
 
